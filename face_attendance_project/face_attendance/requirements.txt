@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+pandas
+numpy
+scikit-learn
+opencv-python-headless
